@@ -1,0 +1,11 @@
+InvoiceID,Branch,Gender,ProductLine,Payment,Total,Rating,Date
+101,A,Female,Health,Cash,50.5,8.4,2024-01-01
+102,B,Male,Electronic,Credit card,200.3,9.0,2024-01-02
+103,A,Female,Fashion,Ewallet,120.0,7.5,2024-01-03
+104,C,Female,Food,Ewallet,75.2,8.0,2024-01-04
+105,B,Male,Food,Cash,300.1,9.3,2024-01-05
+106,C,Male,Electronic,Credit card,150.0,7.8,2024-01-06
+107,A,Female,Fashion,Cash,80.0,6.9,2024-01-07
+108,B,Male,Food,Ewallet,60.5,8.5,2024-01-08
+109,C,Female,Health,Credit card,90.3,7.2,2024-01-09
+110,A,Male,Electronic,Cash,220.0,9.1,2024-01-10
